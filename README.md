@@ -17,13 +17,9 @@
 </a>
 
 ---
-
 ### I'm a self-taught front-end developer, passionate about the best front-end and mobile development technologies. Fascinated by learning and JavaScript.
 
 ---
-
-<br>
-
 ### :computer: Technical Skills
 
 <img

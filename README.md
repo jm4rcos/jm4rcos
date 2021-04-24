@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/jm4rcosg">
       <img alt="João Marcos" src="https://img.shields.io/badge/-João%20Marcos-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
-<a href="mailto:carlos.miguel.oliveira.17@gmail.com">
+<a href="mailto:joaomarcosmacimiro@gmail.com">
       <img alt="Carlos Miguel" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:joaomarcosmacimiro@gmail.com" />
 </a>
 <a href="https://app.rocketseat.com.br/me/joao-marcos-1567775308">

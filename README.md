@@ -29,21 +29,6 @@
 	align="right"
 />
 
-#### 🎨 ✍🏼 Designing: <br/>
-
-<a href="#">
-      <img alt="Figma" src="https://img.shields.io/badge/Figma-F24D1D.svg?style=for-the-badge&logo=figma&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-24205E.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-FF7D00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
-</a>
-
-<br>
-<br>
-
 ####  :speech_balloon: Languages
 
 <a href="#">

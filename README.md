@@ -46,6 +46,8 @@
 </br>
 
 ![João Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=jm4rcos&show_icons=true&theme=react)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jm4rcos&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ***Exciting time in the world right now...***

@@ -12,22 +12,12 @@
 <a href="mailto:joaomarcosmacimiro@gmail.com">
       <img alt="Joao" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:joaomarcosmacimiro@gmail.com" />
 </a>
-<!--   <a href="https://app.rocketseat.com.br/me/joao-marcos-1567775308">
-      <img alt="Rocketseat" src="https://img.shields.io/badge/Rocketseat-5659EB?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==" />
-</a>   -->
 
 ---
 ### I'm a self-taught front-end developer, passionate about the best front-end and mobile development technologies. Fascinated by learning and JavaScript.
 
 ---
 ### :computer: Technical Skills
-
-<img
-	src="./coding.png"
-	width="190px"
-	height="200px"
-	align="right"
-/>
 
 ####  :speech_balloon: Languages
 

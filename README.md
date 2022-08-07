@@ -14,7 +14,7 @@
 </a>
 
 ---
-### Front-End developer and Linux Engineer, but also studying back-end and databases.
+### Software enginner developer and Linux Engineer.
 
 ---
 ### :computer: Technical Skills
